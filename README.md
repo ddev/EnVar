@@ -1,5 +1,9 @@
 # EnVar Plugin for NSIS
 
+Copied/forked from https://github.com/GsNSIS/EnVar 2025-04-24 so that
+DDEV has a build version that it can depend on, since we don't know
+the maintenance status of the upstream.
+
 ![Build NSIS Plugin Dll's and Artifacts](https://github.com/GsNSIS/EnVar/workflows/Build%20NSIS%20Plugin%20Dll's%20and%20Artifacts/badge.svg)
 
 Originally coded by Jason Ross aka JasonFriday13 on the forums.
